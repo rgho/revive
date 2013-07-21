@@ -1,7 +1,8 @@
 libRevive
 ======
 
-Author: Rishi Ghosh
+Author: Rishi Ghosh 
+
 Revive is a Livecode library provided functions to easily calculate health related indexes. BMI, Body Fat, BMR, RMR, Rohrer's Index, and more.
 Below is a list of supported methods. Decumentation coming soon.
 
